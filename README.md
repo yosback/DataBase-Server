@@ -1,5 +1,10 @@
 # DataBase-Server
+```
 sudo apt update
 ```
-sudo pepek
+```
+sudo apt update
+```
+```
+sudo apt install ssh
 ```
