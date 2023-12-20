@@ -1,4 +1,4 @@
-Service
+Service yang digunakan
 1. SSH Server
 2. FTP Server
 3. Apache2
