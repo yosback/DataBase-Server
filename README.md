@@ -4,6 +4,8 @@ Service yang digunakan
 3. Apache2
 
 # Web Server
+FTPnya menggunakan FileZila
+
 ```
 sudo apt update
 sudo apt update
