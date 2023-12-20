@@ -1,3 +1,8 @@
+Service
+1. SSH Server
+2. FTP Server
+3. Apache2
+
 # Web Server
 ```
 sudo apt update
